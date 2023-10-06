@@ -23,7 +23,7 @@
     "dayjs": "^1.11.10"
   },
   "logseq": {
-    "id": "logseq-block-to-page",
-    "icon": "./icon.png"
+    "id": "logseq-block-to-page-next",
+    "icon": "./logo.svg"
   }
 }
